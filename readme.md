@@ -7,4 +7,4 @@
 
 # APİ
 
-> print "Kullanim: vpn.pl <ipadresi>\n";
+> print "Kullanim: vpn.pl < ipadresi > \n";

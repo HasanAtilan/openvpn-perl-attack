@@ -5,6 +5,6 @@
 > Coded By HasanAtilan <br/>
 > twitter.com/netmrhasan - telegram: netmrhasan <br/>
 
-# APİ
+# Kullanim - Usage
 
-> print "Kullanim: vpn.pl < ipadresi > \n";
+vpnattack.pl IP
